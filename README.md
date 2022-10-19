@@ -1,2 +1,2 @@
-# Landing page for a fake baseball bat startup. /n
-# 
+# Landing page for a fake baseball bat startup.
+
