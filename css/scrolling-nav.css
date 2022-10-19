@@ -1,0 +1,154 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/templates/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ body {
+ 	font-family: 'Open Sans', sans-serif;
+ }
+
+
+ .navbar {
+ 	background-color: #704504; 
+ }
+
+ .navbar-nav-custom {
+ 	font-size: 1.2rem;
+ }
+
+ .nav_brand_custom {
+ 	font-size: 1.5rem;
+ }
+
+ .logo {
+ 	width: 10%;
+ 	margin-right: 5px;
+ }
+
+ header {
+ 	padding: 10rem 0 20rem 0; 
+ 	background: url('../images/Untitled-1.jpg') no-repeat center center;
+ 	background-size: cover;
+ }
+
+ .main_header {
+ 	font-size: 3rem;
+ 	font-weight: bold;
+ }
+
+ .lead {
+ 	font-size: 28px;
+ }
+
+.btn-custom {
+	font-size: 1.2rem;
+	border-radius: 2rem;
+	padding: .7rem 1.5rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.btn-custom:hover {
+	/* 6c757d */
+	background-color: #704504;
+	border-color: #704504;
+	border-width: 0.2rem;
+}
+
+.btn-custom2 {
+	font-size: 1.3rem;
+	border-radius: 1.5rem;
+	padding: .5rem 1rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.btn-custom2:hover {
+	background-color: #704504;
+	border-color: #704504;
+	border-width: 0.2rem;
+}
+
+ section {
+ 	padding: 150px 30px 150px 30px;
+ }
+
+ #Product {
+ 	padding: 0;
+ }
+
+.product_descript {
+	padding: 150px 75px 150px 75px;
+}
+
+
+ .showcase_img {
+ 	background-image: url(../images/bat.jpg);
+ 	min-height: 25rem;
+ 	background-size: cover;
+ }
+
+ li {
+ 	font-size: 1.3rem;
+ }
+
+.card-title {
+	text-align: center;
+	font-weight: bold;
+}
+
+.price {
+	text-align: center;
+	font-size: 2.8rem;
+}
+
+ .card-text {
+ 	font-size: 1.3rem;
+ }
+
+.card-footer {
+	display: flex;
+	justify-content: center;
+}
+
+#Price {
+	background: url(../images/bsbbck.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+hr {
+	border-color: #704504;
+	border-width: 2px;
+	max-width: 70px;
+}
+
+.btn-contact {
+	font-size: 1.2rem;
+	border-radius: 2rem;
+	padding: .7rem 1.5rem;
+}
+
+.btn-contact:hover {
+	background-color: #704504;
+	border-color: #704504;
+	border-width: 0.2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
