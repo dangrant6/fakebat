@@ -1,1 +1,1 @@
-# js-landing-page
+# landing page for fake baseball bat startup
